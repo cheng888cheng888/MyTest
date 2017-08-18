@@ -73,6 +73,11 @@ public class test {
 			
 			String  result = doGet(url);
 			System.out.println(result);
+			
+			
+			
+			
+			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
