@@ -73,6 +73,9 @@ public class test {
 			
 			String  result = doGet(url);
 			System.out.println(result);
+			
+			
+			//ceshicommit
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
