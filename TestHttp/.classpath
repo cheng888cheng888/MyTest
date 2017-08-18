@@ -2,7 +2,6 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/httpclient-4.5.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
@@ -12,7 +11,9 @@
 			<attribute name="maven.scope" value="provided"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/log4j-1.2.16.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/java常用jar包/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/java常用jar包/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/java常用jar包/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/java常用jar包/log4j-1.2.16.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
