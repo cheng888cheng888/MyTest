@@ -58,6 +58,10 @@ public class test {
     
 	public static void main(String[] args) {
 		
+		
+		//curl -X POST 'http://172.17.12.253:9200/cctest2/person2' -d ${result}
+
+		
 		System.out.println("=========start========");
 		try {
 			String url = "http://106.2.1.39/app/APP701_CreateRuleTask.php?env=TEST";
